@@ -1,0 +1,20 @@
+conjunctions = [
+
+"when",
+"once",
+"as soon as",
+"if",
+"till",
+"untill",
+"provided that",
+"unless",
+"even though",
+"although",
+"as",
+"because",
+"after",
+"before",
+"in spite of",
+"despite",
+
+]
