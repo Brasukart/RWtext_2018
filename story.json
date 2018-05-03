@@ -1,1 +1,26 @@
-"story": ["#tracery_halfsies#.......One evening in #location#, a #mood# #lover# met #wise.a# who asked: Do you believe that #muse.a# can love #lover.a#?\nThe #wise# looked at the #lover# with #mood.a# #bodyPart# and touched the #lover#'s #bodyPart# while saying:\nOnly when #creature.a# has his or her #bodyPart# #adverb# #verb# by #creature.a#, will #muse.a# truly believe in love.\n The #lover# looked at a mirror and murmured #tracery_lover.a# and #tracery_lover.a# and #tracery_lover.a#...\n Not a single #muse#, in his/her mind only images of #mood# #tracery_muse.a# and #tracery_muse.a# and #tracery_muse.a#.\n #lover# roamed until arrinving at #geography.a# in #location#. His/her mastery of #technique# was of no use to defeat this #creature# that grows inside."],
+rules = {
+    "origin":["#[lover:#creature#][wise:#creature#][muse:#creature#]part01#""#part02#""#part03#""#part04#"],
+
+"part01": ["#tracery_halfsies.capitalize#.......One evening in #location#, a #mood# #lover# met #wise.a# who asked: Do you believe that #muse.a# can love #lover.a#?"],
+
+"part02": ["The #wise# looked at the #lover# with #mood.a# #bodyPart# and touched the #lover#'s #bodyPart# while saying:\n Only when #creature.a# has his or her #bodyPart# #adverb# #verb# by #creature.a#, will #muse.a# truly believe in love."],
+
+"part03": ["The #lover# looked the reflection in a mirror and murmured and saw #tracery_lover.a# and #tracery_lover.a# and #tracery_lover.a#...\n Not a single #muse#, in his/her mind only images of #mood# #tracery_muse# and #tracery_muse# and #tracery_muse#.\n #lover# roamed until arriving at #geography.a# in #location#. His/her mastery of #technique# was of no use to defeat this #creature# that grows inside."],
+
+
+"part04": ["#tracery_halfsies# is what makes #lover# #action# through #location# and #tracery_lover#"],
+
+"part05": ["As #lover# dreams of #muse# - a sound like #object#, a sound like #tracery_muse# echoes. Then nothing else as #lover# is killed once more by a #adverb# #technique# from the relentless undying player."],
+
+"part06": ["You Died....#lover#"],
+
+"verb": verbs,
+"location" : locations,
+"object": objects,
+"creature": creatures,
+"bodyPart": bodyParts,
+"action": actions,
+"concept": concepts,
+"conjunction": conjunctions,
+"adverb": adverbs,
+"mood" : moods,
